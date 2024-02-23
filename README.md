@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 📫 How to reach me: lkndrprjpt3@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: Aaryan
 - ⚡ Fun fact: <i style="font-weight: 600">Copy-and-Paste was programmed by programmers for programmers actually.</i>
 
 <h3 align="center">A passionate frontend developer from India</h3>
